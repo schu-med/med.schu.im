@@ -1,0 +1,11 @@
+baseURL = 'https://med.schu.im/'
+languageCode = 'de-de'
+title = 'med.schu.im'
+theme = "about-blank"
+enableGitInfo = true
+
+[params]
+disableMenu = true
+
+[markup.goldmark.renderer]
+unsafe= true

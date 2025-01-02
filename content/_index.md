@@ -9,7 +9,3 @@ layout = "indexpage"
   <p class="alert-heading"><a href="https://foam.med.schu.im">foam.med.schu.im</a></p>
 	<p class="mb-0">A list of free open access medical education resources.</p>
 </div>
-
-<div class="alert alert-primary" role="alert">
-  <p class="alert-heading"><a href="https://pharmaka.med.schu.im">pharmaka.med.schu.im</a></p>
-</div>
